@@ -7,7 +7,6 @@
 - [Chapter 1: What is programming?](./programming/README.md)
     - [What is a program?](./programming/programs.md)
     - [Why are programs needed?](./programming/need.md)
-    - [What about variables?](./programming/variables.md)
     - [About programming languages](./programming/languages.md)
     - [Why Rust?](./programming/rust.md)
 - [Chapter 2: Small Introduction to Rust](./rust/README.md)
