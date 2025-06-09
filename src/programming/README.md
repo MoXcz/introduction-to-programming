@@ -1,12 +1,14 @@
 # What is Programming?
 
-Programming consists of many things, but at its core, it's about *solving problems*. Writing code and implementing a solution come after first thinking through that solution. After all, there would be no need to *write programs* if we didn’t need to solve something.
+Programming consists of many things, but at its core, it's about *solving problems*. Writing code and implementing a solution come after first thinking through a solution for the problem. After all, there would be no need to *write programs* if we didn’t need to solve something.
 
 > Builders build things because people need things built—right? Similarly, *programmers* write programs because people need programs.
 
-Think of the apps on a smartphone: social media, camera, video editing, messaging apps, games. Each one is an application written by a group of people—sometimes by just a single person. And programming spans many different areas: web development, microcontrollers, command-line tools, hardware, the *cloud*, infrastructure (like servers), and more recently, LLMs and their interfaces.
+Think of the apps on a smartphone: social media, camera, video editing, messaging apps, games. Each one is an application written by a group of people—sometimes by just a single person—each spanning a different area: web development, microcontrollers, command-line tools, hardware, the *cloud*, infrastructure (like servers), and more recently, LLMs and their interfaces like ChatGPT.
 
-So when thinking about the word *programming*, it's not just about someone building a web app. It's about *building* something that solves a problem. Even a calculator needed a *programmer* to define the logic that makes it perform the operations we all see calculators do.
+So when thinking about the word *programming*, it's not just about someone building a web or mobile application—these ones are just the most visible examples. It's about *building* something that solves a problem. Even a calculator needed a *programmer* to define the logic that makes it perform the operations we all see calculators do.
+
+> At the heart of every solution is *data transformation*: Starting from a *beginning state* a program does some *thing* that converts it to some *final state*.
 
 ## But, what problems?
 

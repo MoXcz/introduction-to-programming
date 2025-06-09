@@ -29,9 +29,6 @@ fn multiply(x: i32, y: i32) -> i32 {
 }
 
 fn divide(x: i32, y: i32) -> f64 {
-    if y == 0 {
-        panic!("Cannot divide by zero");
-    }
     x as f64 / y as f64
 }
 ```
