@@ -10,3 +10,7 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+## Theme
+
+This site uses the [hugo-book](https://github.com/alex-shpak/hugo-book) theme by [alex-shpak](https://github.com/alex-shpak), licensed under the MIT License.
