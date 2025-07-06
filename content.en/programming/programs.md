@@ -1,3 +1,8 @@
+---
+weight: 1
+title: "1.1 What is a Program"
+---
+
 # What is a Program?
 
 A program is simply a set of instructions that *solve* something through an applied medium—plain and simple. The act of *programming* refers to the process of *teaching* or *instructing* a system how to perform a task, and the result of that process is a program.
@@ -18,20 +23,27 @@ So if I say I want a program that performs multiplication and division, I need t
 
 That’s a rough, human-level algorithm—a *programmable* way to think about solving a problem.
 
-Now, putting that into code, here's how such logic might look in Rust. Don't worry about the details like `i32` or `f64` just yet. For now, it's enough to know that:
+Now, putting that into code, here's how such logic might look in Go.
 
-- `i32` represents a whole number (integer).
-- `f64` represents a number with decimals (a floating-point number).
+{{% hint warning %}}
+Don't worry about the details like `int32` or `float64` just yet. For now, it's enough to know that:
+- `int32` represents a whole number (integer).
+- `float64` represents a number with decimals (a floating-point number).
+{{% /hint %}}
 
-```rust
-fn multiply(x: i32, y: i32) -> i32 {
-    x * y
+
+
+```go
+func multiply(x, y int32) int32 {
+    return x * y
 }
 
-fn divide(x: i32, y: i32) -> f64 {
-    x as f64 / y as f64
+func multiply(x, y float64) float64 {
+    return x / y
 }
 ```
 
-At this stage, the functions above (think of them as named sets of instructions) might not make complete sense, especially because Rust is a relatively low-level language. That’s okay. The key takeaway is that *programs* are formalized instructions—like recipes—that tell the computer how to solve a specific problem.
+At this stage, the functions above (think of them as named sets of instructions) might not make complete sense. That’s okay. The key takeaway is that *programs* are formalized instructions—like recipes—that tell the computer *how* to solve a specific problem.
+
+In this case it just so happens that the *specific problems* are `multiply` and `divide`.
 

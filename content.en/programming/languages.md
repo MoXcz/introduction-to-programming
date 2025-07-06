@@ -1,3 +1,8 @@
+---
+weight: 3
+title: "1.3 What is a Program"
+---
+
 # About Programming Languages
 
 Programming languages are the way programmers express ideas to create programs. They're the *tools*—the *hammer*, if you will—that make it possible to *implement* a solution.
@@ -10,6 +15,7 @@ There are tons of programming languages out there. Here are a few you might have
 - Lua
 - Go
 - Rust
+- OCaml
 - And many, many more...
 
 The point of showing this variety is to highlight that the specific language you use doesn’t really matter—*until it does*. Since this is an introduction, we’ll assume you have little or no experience with programming. And if you do, just know that this book isn’t aiming to be rigorous or academic.
