@@ -19,3 +19,4 @@ If your reason for learning programming is money, that’s totally valid. There 
 
 So if you don't yet see any reason to *write programs* there's really no shame in that. People hardly know what they want to do, so thinking through the *why* while learning (and perhaps being motivated by the sustenance it could provide) is the best that can be done until *motivation kicks in*.
 
+[> Next](/programming/languages)

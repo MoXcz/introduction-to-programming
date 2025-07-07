@@ -26,3 +26,5 @@ That depends on what the *programmer* is working on. There's no single definitio
 
 As the chapters go on, it will become more evident that *programming* itself isn't the hardest part. In fact, it’s often the easiest. The real challenge is everything around it—understanding the problem, designing a good solution, and building something that lasts. Writing the code becomes almost like a race against maintenance.
 
+[> Next](/programming/programs)
+
