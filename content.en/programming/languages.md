@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: "1.3 What is a Program"
+title: "1.3 About Programming Languages"
 ---
 
 # About Programming Languages
@@ -32,3 +32,4 @@ And so on. These are the foundational ideas that make programming make sense. On
 
 After getting a first introduction to programming—and once the core ideas start to click—choosing a specific language can become more important, especially when it comes time to look for a job, or implementing solutions for specific problems.
 
+[> Next](/programming/go)
