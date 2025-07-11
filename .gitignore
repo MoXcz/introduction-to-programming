@@ -2,3 +2,4 @@
 *.go
 shortcodes/
 public/
+resources/
