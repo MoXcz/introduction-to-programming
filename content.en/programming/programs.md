@@ -31,8 +31,6 @@ Don't worry about the details like `int32` or `float64` just yet. For now, it's 
 - `float64` represents a number with decimals (a floating-point number).
 {{% /hint %}}
 
-
-
 ```go
 func multiply(x, y int32) int32 {
     return x * y
