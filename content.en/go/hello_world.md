@@ -63,6 +63,8 @@ It's supposed to be perfect
 But really it's not
 ```
 
+> Lyrics from [Erratic Patterns by Carbon Based Liferforms](https://carbonbasedlifeforms.bandcamp.com/track/erratic-patterns)
+
 {{% details "Hint" %}}
 1. Use multiple `fmt.Println()`
 2. Backticks can be used to create text in multiple lines
